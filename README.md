@@ -1,4 +1,4 @@
-# OvermindTest
+# simple-angular-overmind-demo
 
 This a simple project which apply overmind on angular. In addition, I also use 'overmind-devtools' to monitor the states in overmind.
 
